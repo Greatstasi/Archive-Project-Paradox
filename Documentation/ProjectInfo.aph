@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>1E2C54472EC97FFFC672CE93C17F8682D10AA19DE14328673B5E744BA36640C5</Signature>
+  <Content>
+    <Project Guid="3f340d4f-ddcf-445d-b399-a18812303b0a">
+      <DisplayName Value="Project Paradox"/>
+      <DetailName Value="Design Wiki"/>
+      <MainProjectGuid Value="0b3b7674-1959-4f37-b071-db3c02b776af"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638811218471365892"/>
+      <PartitionHash Value="7F81F1AB71B557EA6D4A9BB4F5B437D843342D54A50983602EBB042FDC8C1E80"/>
+      <SaveFileVersion Value="58"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
