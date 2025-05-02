@@ -1,1 +1,0 @@
-{"completionTime":92.823280245065689,"kills":11,"attacks":13,"heavyAttacks":0,"parrySuccess":0,"parryTotal":0,"deathCount":1,"traverseCount":10,"dashCount":1,"timeInSlowMo":0,"deathsFromMelee":0,"deathsFromRanged":1,"heavyKills":11}
