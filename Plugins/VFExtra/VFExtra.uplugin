@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VFExtra",
+	"Description": "Additional resources for game VFX production",
+	"Category": "VFX",
+	"CreatedBy": "Niels Dewitte",
+	"CreatedByURL": "https://nielsdewitte.be/",
+	"DocsURL": "https://nielsdewitte.be/VFExtra/",
+	"MarketplaceURL": "",
+	"SupportURL": "https://nielsdewitte.be/VFExtra/",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VFExtra",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+	],
+	"Plugins": [
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		}
+	]
+}
